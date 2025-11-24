@@ -1,4 +1,4 @@
-## Coding my way out of every bug (which i created myself)
+## Coding my way out of every bug (which i created myself :P)
 
 **Full-Stack Engineer || Cloud & DevOps || Blockchain Developer**
 
